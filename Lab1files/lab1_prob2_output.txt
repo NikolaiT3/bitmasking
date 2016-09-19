@@ -1,0 +1,7 @@
+char data type is 1 bytes or 8 bits long
+unsigned int data type is 4 bytes or 32 bits long
+long data type is 8 bytes or 64 bits long
+long long data type is 8 bytes or 64 bits long
+double data type is 8 bytes or 64 bits long
+float data type is 4 bytes or 32 bits long
+timeval data type is 16 bytes or 128 bits long

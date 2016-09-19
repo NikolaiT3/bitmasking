@@ -1,0 +1,50 @@
+Variable sequence is: | DOS | DSBF | ER | DC | KIC | DCL | BP | CM |
+
+Test 1:
+| 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
+The state of the BELL is 0
+The state of the DLA is 1
+The state of the BA is 1
+
+Test 2:
+| 1 | 1 | 1 | 0 | 1 | 0 | 1 | 0 |
+The state of the BELL is 1
+The state of the DLA is 0
+The state of the BA is 0
+
+Test 3:
+| 1 | 0 | 1 | 1 | 0 | 1 | 0 | 1 |
+The state of the BELL is 0
+The state of the DLA is 1
+The state of the BA is 0
+
+Test 4:
+| 1 | 0 | 1 | 0 | 0 | 0 | 0 | 0 |
+The state of the BELL is 1
+The state of the DLA is 0
+The state of the BA is 0
+
+Test 5:
+| 0 | 1 | 0 | 1 | 1 | 1 | 0 | 0 |
+The state of the BELL is 0
+The state of the DLA is 0
+The state of the BA is 0
+
+Test 6:
+| 0 | 1 | 0 | 0 | 1 | 0 | 0 | 0 |
+The state of the BELL is 0
+The state of the DLA is 0
+The state of the BA is 0
+
+Test 7:
+| 0 | 0 | 0 | 1 | 0 | 1 | 0 | 0 |
+The state of the BELL is 0
+The state of the DLA is 1
+The state of the BA is 0
+
+Test 8:
+| 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+The state of the BELL is 0
+The state of the DLA is 0
+The state of the BA is 0
+

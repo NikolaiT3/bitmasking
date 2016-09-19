@@ -1,0 +1,74 @@
+Variable sequence is: | DOS | DSBF | ER | DC | KIC | DCL | BP | CM |
+
+Test 1:
+| Integer from file, Bit from sensor_inputs |
+ 1, 1 | 1, 1 | 1, 1 | 1, 1 | 1, 1 | 1, 1 | 1, 1 | 1, 1 |
+Sensor Decimal representation: 255 
+Actuator Decimal Representation: 6
+The state of the BELL is: 0
+The state of the DLA is:  1
+The state of the BA is:   1
+
+Test 2:
+| Integer from file, Bit from sensor_inputs |
+ 1, 1 | 1, 1 | 1, 1 | 0, 0 | 1, 1 | 0, 0 | 1, 1 | 0, 0 |
+Sensor Decimal representation: 87 
+Actuator Decimal Representation: 1
+The state of the BELL is: 1
+The state of the DLA is:  0
+The state of the BA is:   0
+
+Test 3:
+| Integer from file, Bit from sensor_inputs |
+ 1, 1 | 0, 0 | 1, 1 | 1, 1 | 0, 0 | 1, 1 | 0, 0 | 1, 1 |
+Sensor Decimal representation: 173 
+Actuator Decimal Representation: 2
+The state of the BELL is: 0
+The state of the DLA is:  1
+The state of the BA is:   0
+
+Test 4:
+| Integer from file, Bit from sensor_inputs |
+ 1, 1 | 0, 0 | 1, 1 | 0, 0 | 0, 0 | 0, 0 | 0, 0 | 0, 0 |
+Sensor Decimal representation: 5 
+Actuator Decimal Representation: 1
+The state of the BELL is: 1
+The state of the DLA is:  0
+The state of the BA is:   0
+
+Test 5:
+| Integer from file, Bit from sensor_inputs |
+ 0, 0 | 1, 1 | 0, 0 | 1, 1 | 1, 1 | 1, 1 | 0, 0 | 0, 0 |
+Sensor Decimal representation: 58 
+Actuator Decimal Representation: 0
+The state of the BELL is: 0
+The state of the DLA is:  0
+The state of the BA is:   0
+
+Test 6:
+| Integer from file, Bit from sensor_inputs |
+ 0, 0 | 1, 1 | 0, 0 | 0, 0 | 1, 1 | 0, 0 | 0, 0 | 0, 0 |
+Sensor Decimal representation: 18 
+Actuator Decimal Representation: 0
+The state of the BELL is: 0
+The state of the DLA is:  0
+The state of the BA is:   0
+
+Test 7:
+| Integer from file, Bit from sensor_inputs |
+ 0, 0 | 0, 0 | 0, 0 | 1, 1 | 0, 0 | 1, 1 | 0, 0 | 0, 0 |
+Sensor Decimal representation: 40 
+Actuator Decimal Representation: 2
+The state of the BELL is: 0
+The state of the DLA is:  1
+The state of the BA is:   0
+
+Test 8:
+| Integer from file, Bit from sensor_inputs |
+ 0, 0 | 0, 0 | 0, 0 | 0, 0 | 0, 0 | 0, 0 | 0, 0 | 0, 0 |
+Sensor Decimal representation: 0 
+Actuator Decimal Representation: 0
+The state of the BELL is: 0
+The state of the DLA is:  0
+The state of the BA is:   0
+

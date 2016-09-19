@@ -1,0 +1,74 @@
+Variable sequence is: | DOS | DSBF | ER | DC | KIC | DCL | BP | CM |
+
+Test 1:
+| 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
+The state of the BELL is 0
+The state of the DLA is 1
+The state of the BA is 1
+Timer Resolution = 100 nanoseconds 
+Calibrartion time = 0 seconds and 2200 nanoseconds 
+The measured code took 0 seconds and 700 nano seconds to run 
+
+Test 2:
+| 1 | 1 | 1 | 0 | 1 | 0 | 1 | 0 |
+The state of the BELL is 1
+The state of the DLA is 0
+The state of the BA is 0
+Timer Resolution = 100 nanoseconds 
+Calibrartion time = 0 seconds and 1500 nanoseconds 
+The measured code took 0 seconds and 4294967096 nano seconds to run 
+
+Test 3:
+| 1 | 0 | 1 | 1 | 0 | 1 | 0 | 1 |
+The state of the BELL is 0
+The state of the DLA is 1
+The state of the BA is 0
+Timer Resolution = 100 nanoseconds 
+Calibrartion time = 0 seconds and 1100 nanoseconds 
+The measured code took 0 seconds and 200 nano seconds to run 
+
+Test 4:
+| 1 | 0 | 1 | 0 | 0 | 0 | 0 | 0 |
+The state of the BELL is 1
+The state of the DLA is 0
+The state of the BA is 0
+Timer Resolution = 100 nanoseconds 
+Calibrartion time = 0 seconds and 1100 nanoseconds 
+The measured code took 0 seconds and 100 nano seconds to run 
+
+Test 5:
+| 0 | 1 | 0 | 1 | 1 | 1 | 0 | 0 |
+The state of the BELL is 0
+The state of the DLA is 0
+The state of the BA is 0
+Timer Resolution = 100 nanoseconds 
+Calibrartion time = 0 seconds and 1100 nanoseconds 
+The measured code took 0 seconds and 100 nano seconds to run 
+
+Test 6:
+| 0 | 1 | 0 | 0 | 1 | 0 | 0 | 0 |
+The state of the BELL is 0
+The state of the DLA is 0
+The state of the BA is 0
+Timer Resolution = 100 nanoseconds 
+Calibrartion time = 0 seconds and 1100 nanoseconds 
+The measured code took 0 seconds and 100 nano seconds to run 
+
+Test 7:
+| 0 | 0 | 0 | 1 | 0 | 1 | 0 | 0 |
+The state of the BELL is 0
+The state of the DLA is 1
+The state of the BA is 0
+Timer Resolution = 100 nanoseconds 
+Calibrartion time = 0 seconds and 1100 nanoseconds 
+The measured code took 0 seconds and 100 nano seconds to run 
+
+Test 8:
+| 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+The state of the BELL is 0
+The state of the DLA is 0
+The state of the BA is 0
+Timer Resolution = 100 nanoseconds 
+Calibrartion time = 0 seconds and 1100 nanoseconds 
+The measured code took 0 seconds and 100 nano seconds to run 
+
